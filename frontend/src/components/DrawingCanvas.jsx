@@ -116,3 +116,5 @@ export const DrawingCanvas = ({ onPredict }) => {
     </div>
   );
 };
+
+// orginal code
